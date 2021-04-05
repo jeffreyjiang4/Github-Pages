@@ -8,7 +8,7 @@ I am currently a 3rd year B.S. Computer Science student at University of Califor
 By the words of the late Kobe Bryant, 
 > A challenge is an opportunity to learn.
 
-In a way, I am constantly `git push`ing myself to be the best that I can be.Outside of school and work, my hobbies include:
+In a way, I am constantly `git push`ing myself to be the best that I can be. Outside of school and work, my hobbies include:
 - trading stocks
 - playing basketball
 - playing guitar
